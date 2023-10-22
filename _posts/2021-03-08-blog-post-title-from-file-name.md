@@ -1,4 +1,4 @@
-##First
+## First
 October 22nd, 2023
 This is an interface by which a robot may access my mind. Having written that sentence is surfacing uncomfortable implications about the level of honesty which would be most useful to a robot and to myself – I suppose a primary goal, or in any case a major effect of writing this here, will be to adapt to the practice of such honesty. I feel I want to hide, and I don’t like this feeling.
 
